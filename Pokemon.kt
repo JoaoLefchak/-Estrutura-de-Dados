@@ -515,4 +515,6 @@
         val mew = mapOf(
             "PSIQUICO" to listOf("LUTADOR", "VENENO")
         )
+
+        
     }
